@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @mustafizur-munna, Wordpress Developer.
-- 👀 I’m working/ interested in several programming languages and frameworks like: PHP, Javascript, jQuery, React, Vue etc.
+- 👀 I’m working/ interested in several programming languages and frameworks like: PHP, Python, Javascript, jQuery, React, Vue etc.
