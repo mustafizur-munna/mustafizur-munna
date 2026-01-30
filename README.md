@@ -2,3 +2,4 @@
 - 👀 I’m working/ interested in several programming languages and frameworks like: PHP, Python, Javascript, jQuery, React, Vue etc.
 
 https://skillicons.dev/icons?i=html,css,js,jquery,php,react,vue,alpinejs,wordpress,vscode,npm,figma,notion
+[![My Skills]([https://skillicons.dev/icons?i=js,html,css,wasm](https://skillicons.dev/icons?i=html,css,js,jquery,php,react,vue,alpinejs,wordpress,vscode,npm,figma,notion))](https://skillicons.dev)
