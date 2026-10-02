@@ -13,6 +13,6 @@ I enjoy turning ideas into clean, maintainable, and production-ready software.
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,php,react,vue,alpinejs,wordpress,mysql,vscode,sublime,postman,git,github,gitlab,npm,bash,nodejs,vite,webpack,powershell,figma,ps,notion,discord,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,php,react,vue,alpinejs,wordpress,mysql,vscode,sublime,postman,git,github,gitlab,npm,bash,nodejs,vite,webpack,powershell,figma,ps,notion,discord,netlify)](#)
 
 I'm particularly interested in **WordPress, SaaS, AI-assisted development, and modern web technologies**.
